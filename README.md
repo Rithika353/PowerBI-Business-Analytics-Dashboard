@@ -34,3 +34,6 @@ This project is an interactive Business Analytics Dashboard developed using Micr
 - Interactive Dashboard Design
 - Business Intelligence
 - Data Visualization
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
